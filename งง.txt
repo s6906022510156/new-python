@@ -1,2 +1,4 @@
 lecture4 whileloop file random
- เริ่มใหม่ทั้งหมด จำใหได้ทั้งหมด
+ เริ่มใหม่ทั้งหมด จำให้ได้ทั้งหมด
+
+lecture5ด้วย โดยเฉพาะ exercise1
